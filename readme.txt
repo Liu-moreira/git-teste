@@ -9,4 +9,8 @@ Uma nova linha do arquivo está sendo criada.
 
 Segunda linha a ser construída.
 
-Terceira linha está sendo construída
+
+
+
+-------------------- Olá! ------------------
+Bem vindo(a) à nossa segunda aula.
